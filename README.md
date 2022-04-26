@@ -1,2 +1,3 @@
 # Photo-Converter-GUI
-This app uses PIL library for image processing and Tkinter for GUI making.
+This app uses PIL and Tkinter libraries,
+to make lightweight 'png' to 'jpg' converter.
